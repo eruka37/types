@@ -1,0 +1,27 @@
+{
+  "name": "@eruka37/types",
+  "version": "1.0.0",
+  "description": "A JavaScript type enforcement library.",
+  "main": "types.js",
+  "exports": "./types.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Emanuel Rukavina <emanuel.rukavina.dev@pm.me>",
+  "license": "MIT",
+  "keywords": ["types", "validation", "javascript", "type-checking", "enforcement", "strict"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eruka37/types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eruka37/types/issues"
+  },
+  "homepage": "https://github.com/eruka37/types#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
