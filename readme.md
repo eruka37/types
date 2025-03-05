@@ -2,7 +2,7 @@
 
 ### Installation
 ```sh
-npm install @eruka37/types
+npm install eruka37/types
 ```
 
 ### Supported types
